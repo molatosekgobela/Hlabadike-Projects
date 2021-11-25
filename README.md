@@ -18,6 +18,12 @@ Provides the Following Services:
 
 link to Website: https://hlabadike.co.za/
 
+Technologies Used:
+1. PHP
+2. Bootstrap Framework
+3. Css
+4. JQuery
+
 
 Code Cannot be shared due to licensing issues with the Company.
 
